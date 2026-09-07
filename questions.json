@@ -1,0 +1,16 @@
+{
+  "video_id": "REPLACE_ME",
+  "note": "Write these by watching/skimming the video yourself, BEFORE running retrieve.py or answer.py on them. Editing a question after seeing what the system returns invalidates it — you'd be grading the system on questions it happens to answer.",
+  "questions": [
+    {"id": 1, "kind": "single", "question": "REPLACE_ME", "expected_answer_notes": "REPLACE_ME"},
+    {"id": 2, "kind": "single", "question": "REPLACE_ME", "expected_answer_notes": "REPLACE_ME"},
+    {"id": 3, "kind": "single", "question": "REPLACE_ME", "expected_answer_notes": "REPLACE_ME"},
+    {"id": 4, "kind": "single", "question": "REPLACE_ME", "expected_answer_notes": "REPLACE_ME"},
+    {"id": 5, "kind": "single", "question": "REPLACE_ME", "expected_answer_notes": "REPLACE_ME"},
+    {"id": 6, "kind": "synthesis", "question": "REPLACE_ME", "expected_answer_notes": "requires combining 2+ parts of the video"},
+    {"id": 7, "kind": "synthesis", "question": "REPLACE_ME", "expected_answer_notes": "requires combining 2+ parts of the video"},
+    {"id": 8, "kind": "synthesis", "question": "REPLACE_ME", "expected_answer_notes": "requires combining 2+ parts of the video"},
+    {"id": 9, "kind": "negative", "question": "REPLACE_ME", "expected_answer_notes": "the video does NOT cover this — correct answer is a decline"},
+    {"id": 10, "kind": "negative", "question": "REPLACE_ME", "expected_answer_notes": "the video does NOT cover this — correct answer is a decline"}
+  ]
+}
