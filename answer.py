@@ -4,11 +4,15 @@ In:  a question, plus the top-k retrieved chunks (with scores)
 Out: an answer grounded in those chunks, citing a timestamp, or an explicit
      "not covered in this video" when retrieval confidence is low.
 
+Uses Google's Gemini API (free tier: gemini-2.5-flash, no credit card
+required -- get a key at https://aistudio.google.com). Swap the client in
+call_llm() if you'd rather use a different provider later.
+
 The refusal check happens BEFORE calling the LLM, using the retrieval score.
 This matters: your teammate's second-brain project found that once
 low-relevance chunks got handed to a generator, distance alone couldn't
 distinguish a real answer from a hallucinated one. Catching it at the
-retrieval gate — instead of hoping the LLM declines on its own — is more
+retrieval gate -- instead of hoping the LLM declines on its own -- is more
 reliable and gets tested directly in eval.py's negative questions.
 """
 
@@ -26,7 +30,7 @@ SYSTEM_PROMPT = """You answer questions about a YouTube video using ONLY the tra
 - If the excerpts do not contain enough information to answer, say exactly: "Not covered in this video." Do not guess or fill gaps with general knowledge.
 - Keep answers concise: 2-4 sentences."""
 
-# Below this TF-IDF similarity score, retrieval is too weak to trust — decline
+# Below this TF-IDF similarity score, retrieval is too weak to trust -- decline
 # before even calling the LLM. Tune this against your eval set's negative
 # questions rather than assuming it's right.
 MIN_RETRIEVAL_SCORE = 0.08
@@ -41,6 +45,19 @@ def build_user_prompt(question: str, chunks: list[dict]) -> str:
     return f"Transcript excerpts:\n\n{excerpts}\n\nQuestion: {question}"
 
 
+def call_llm(system_prompt: str, user_prompt: str) -> str:
+    """Calls Gemini's free-tier API. Reads GEMINI_API_KEY from the environment."""
+    from google import genai
+
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    response = client.models.generate_content(
+        model="gemini-3.6-flash",
+        contents=user_prompt,
+        config={"system_instruction": system_prompt, "max_output_tokens": 400},
+    )
+    return response.text
+
+
 def answer_question(question: str, retriever: Retriever, top_k: int = 4) -> dict:
     chunks = retriever.query(question, top_k=top_k)
 
@@ -53,19 +70,8 @@ def answer_question(question: str, retriever: Retriever, top_k: int = 4) -> dict
             "chunks_used": [],
         }
 
-    import anthropic
-    client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from env
-
     user_prompt = build_user_prompt(question, chunks)
-    response = client.messages.create(
-        model="claude-sonnet-4-5",
-        max_tokens=400,
-        system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": user_prompt}],
-    )
-    answer_text = "".join(
-        block.text for block in response.content if block.type == "text"
-    )
+    answer_text = call_llm(SYSTEM_PROMPT, user_prompt)
 
     return {
         "question": question,
@@ -85,8 +91,8 @@ def main():
     question = sys.argv[2]
     top_k = int(sys.argv[3]) if len(sys.argv) > 3 else 4
 
-    if not os.environ.get("ANTHROPIC_API_KEY"):
-        print("Set ANTHROPIC_API_KEY in your environment before running this stage.")
+    if not os.environ.get("GEMINI_API_KEY"):
+        print("Set GEMINI_API_KEY in your environment before running this stage.")
         sys.exit(1)
 
     data = json.loads(chunks_path.read_text())
