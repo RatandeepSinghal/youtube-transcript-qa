@@ -17,7 +17,8 @@ import sys
 import json
 from pathlib import Path
 
-from retrieve import Retriever, format_timestamp
+from retrieve import Retriever
+from chunk import format_timestamp
 
 SYSTEM_PROMPT = """You answer questions about a YouTube video using ONLY the transcript excerpts provided. Rules:
 - Base your answer strictly on the excerpts. Do not use outside knowledge.
