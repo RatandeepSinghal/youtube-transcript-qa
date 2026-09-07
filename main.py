@@ -4,7 +4,7 @@ Orchestrator — runs the full pipeline for one video:
 
 Usage:
   export ANTHROPIC_API_KEY=sk-...
-  python main.py "https://www.youtube.com/watch?v=XXXXXXXXXXX"
+  python main.py "https://www.youtube.com/watch?v=zUzd-HgaFkw&list=PLpx4I-WPI8W81xyTc0jaIx4jWjFS98TN0"
 """
 
 import sys

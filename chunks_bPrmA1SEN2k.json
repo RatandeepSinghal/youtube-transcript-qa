@@ -1,0 +1,347 @@
+{
+  "video_id": "bPrmA1SEN2k",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "start": 0.0,
+      "end": 34.0,
+      "text": "[Music] hello all my name is krishnak and welcome to my youtube channel so guys today in this video we will be discussing about the complete roadmap to be taken to become an expert in python now why this video guys because i really want to specify python is a very very important programming language"
+    },
+    {
+      "chunk_id": 1,
+      "start": 31.84,
+      "end": 65.119,
+      "text": "now you know because of the type of development since it is an open source and really with the help of python you can develop a web application you can develop a desktop application you can move towards machine learning deep learning because there are some amazing and cool libraries you can actually do some uh create some web frameworks with the help of flask and xango right you can also create uh desktop applications with the help of python you can create web apis you can do whole lot of thing so python has really been"
+    },
+    {
+      "chunk_id": 2,
+      "start": 62.879,
+      "end": 95.92,
+      "text": "very very famous in the recent times and they are some good amount of jobs also with respect to python programming language now before going ahead with respect to this video guys i really want to take you with respect to this particular slides that is few points to remember always remember whenever you are learning something right focus on your end goal right why i'm saying though this because understand i want to become a data scientist suppose my aim is actually to become a data scientist so"
+    },
+    {
+      "chunk_id": 3,
+      "start": 93.28,
+      "end": 125.84,
+      "text": "my learning way my learning pattern of python will be completely different right suppose if i really want to become i want to focus just on web application development then the way that i should be learning python will be different so in this particular way the variations will be there suppose if i want to become a data analyst the way that i will be learning python will be completely different right so in this ways you should actually focus based on the goals right because python is huge you need not learn everything it depends on your goal"
+    },
+    {
+      "chunk_id": 4,
+      "start": 124.479,
+      "end": 156.959,
+      "text": "what you have to learn coming to the second point always keep some time frame in your mind right just just a logical time frame like suppose in three months i really want to become a data scientist now i have to think how i have to go ahead in writing in learning python right that will be pretty much helpful to decide your learning patterns also guys right please make sure please do remember the second point learn every day this is the third thing guys you have to learn at least provide one hour effort every"
+    },
+    {
+      "chunk_id": 5,
+      "start": 156.239,
+      "end": 188.07999999999998,
+      "text": "day right the pattern that you are following just write it down jolt it down in a piece of paper right and try to provide some time every day at least one to two hours right and again guys the last and the final point google is your friend any queries go to him right you may be asking me many queries i may be busy i may not answer be able to answer you but yes always google is available for you whenever you are stuck in anything right once you have the blueprint in your mind"
+    },
+    {
+      "chunk_id": 6,
+      "start": 186.64,
+      "end": 220.319,
+      "text": "you just have to start learning each and everything if you're stuck in some place if you're not even able to get help from anyone go to google right trust me google has all the solutions guys right it has really all the solutions with respect to the things that we do in the site industry every question every type of queries will be definitely available over there right and do not hesitate do not hesitate it's okay it's okay i don't know i'll still say that i hate remembering anything okay i'll"
+    },
+    {
+      "chunk_id": 7,
+      "start": 219.12,
+      "end": 252.56,
+      "text": "just directly go google it whenever i stuck in anything suppose i want to do some data analysts i know pandas i know numpy but yes again i if i want to do some kind of analysis i'll definitely go to google instead of just putting my mind over there right it's okay no need to be shame off that right okay coming to the next point part one i have divided this into some parts and uh i'll just tell you how should you actually start i've also given some basic number of days over here and how you should basically"
+    },
+    {
+      "chunk_id": 8,
+      "start": 250.159,
+      "end": 282.32,
+      "text": "start itself so part one is all about basic python syntax start with jupiter notebook right if you if you go and check my complete machine learning playlist there i have already started with python first of all i've shown how you do the installation of anaconda there how do you use jupyter notebook how do you use spider id but initially always for learning purpose start with jupiter notebook try to learn the basic syntax in this basic sentence i have written things like basic arithmetic operation like one plus one one into two doing some kind of operation"
+    },
+    {
+      "chunk_id": 9,
+      "start": 280.479,
+      "end": 311.91900000000004,
+      "text": "mathematical operations right in that particular way understand about variables understand about control and conditional structures like if while if else clause like that right just try to understand that how do we write because the way that we write right will be able to understand one very very important thing that is called as indentation and in python in detention is pretty much important when you're in the advanced stage when you're learning about oops concepts and all this indentation is very very important because once you're stuck at somewhere"
+    },
+    {
+      "chunk_id": 10,
+      "start": 311.039,
+      "end": 342.32,
+      "text": "due to some issues with respect to indentation there will be a compilation error right when you're trying to execute it you'll get a runtime error itself okay then coming to the control and conditional structure then you start with loopings like for loop while loops and all and again guys it need not be very very complex right just understand the basic structure how it works how it works right and suppose if you have a use case like in the future you will be working with pandas right pandas basically means data frames and suppose you want to loop inside data"
+    },
+    {
+      "chunk_id": 11,
+      "start": 341.28,
+      "end": 373.12,
+      "text": "frames and you don't know google it but if you know this for looping basic structure if you google it you'll be able to understand it right trust me uh in my previous company i have a manager i had a manager who was around 16 to 17 years of experience right and uh just within three to four months you know he was not he was not a pro in coding right he completely used the help of google in order to do the coding right stack overflow was there"
+    },
+    {
+      "chunk_id": 12,
+      "start": 371.68,
+      "end": 404.71999999999997,
+      "text": "he just used to write the questions properly in the google he should get the whole answer itself and he has learned he has learned very nicely i've seen that you know i've seen his interest so just imagine like what all we can do if we have this whole path set with us right okay coming to the next thing is user input strings integer floating values and type casting these are some simple operations and probably you should not take many days in this one to two days is hardly enough i'm not saying one day 24 hours second day 24 hours no"
+    },
+    {
+      "chunk_id": 13,
+      "start": 402.56,
+      "end": 436.56,
+      "text": "every day one hour it's more than sufficient to understand all these things and yes again i have a playlist for that at the last i'll be going through the playlist itself okay now fine this was the part one you have done two days done you have completed it again you can practice some more things and be literally dependent on google guys if you want to see some use cases with respect to this just try to uh google over there and search it over their string operations integers operation floor types operation type casting operations in python"
+    },
+    {
+      "chunk_id": 14,
+      "start": 434.319,
+      "end": 470.08000000000004,
+      "text": "right like that just put the statement in python that's it now coming to the part two focus on inbuilt data structures now this is very very important trust me uh this inbuilt data structures can play a very very important role when you are actually in the advanced stage where you are in the data analysis stage and all okay so here i have actually mentioned python strings and inbuilt function python list and boolean inbuilt functions python sets in build function python dictionaries inbuilt function python tuples"
+    },
+    {
+      "chunk_id": 15,
+      "start": 466.56,
+      "end": 499.199,
+      "text": "this five thing strings list boolean variable sets dictionaries tuples right just try to understand how it actually works just try to see some of the functions over there tomorrow suppose if you really want to find out like how to find out the unique elements in list probably you'll be using the for loop right so see guys that basic thing will be combining with these things right if you know that strong right you'll be also able to think over here but again make that work also easy just"
+    },
+    {
+      "chunk_id": 16,
+      "start": 497.28,
+      "end": 529.44,
+      "text": "directly go and google it suppose if you write go and type how to find unique elements in the list all the solutions will be there right dictionaries how to get all the keys inside a dictionary right if you understand the basic functionalities of this guys google will always be there to help you out okay but logic building is important logic building at each and every stage is important what you have to do in order to solve that use case that is that you have to think that the whole logic you have to do it and probably"
+    },
+    {
+      "chunk_id": 17,
+      "start": 528.0,
+      "end": 560.32,
+      "text": "this is definitely for experienced people they already have the logic they know what they have to do for freshers they they keep on practicing on all these things and i've seen many people guys i've seen many freshers who are much more better than me they don't google also they directly write the code okay and trust me with respect to me if i'm stuck in some of the places and probably i'm not done that part from many days i'll directly go and google pick up the syntax and paste it over there okay so this is the best thing about google itself then uh the next point is about functions in python this is important"
+    },
+    {
+      "chunk_id": 18,
+      "start": 558.32,
+      "end": 590.0,
+      "text": "guys this because we are moving towards the advanced stage of python right uh where we will be using python for data analysis for creating web development projects for creating apis and all right so functions in python is pretty much important okay functions it may be user defined function i'm not talking about inbuilt function i'm talking about user defined functions right user defined functions and that is basically used to reuse the code right reuse the code and you can also override most of the functionalities that is present in the inbuilt function suppose that if"
+    },
+    {
+      "chunk_id": 19,
+      "start": 588.56,
+      "end": 620.079,
+      "text": "there is any inbuilt functions also you can write uh overwrite those by using your own custom functions also this particular operation which is called as iterator and generators is also very very important then you have exception handlings and how to import the libraries exception handling is pretty much important i missed one more point guys uh probably i should not add it over here i'll be telling you in the part three over here itself but exceptional handling is important because that will actually show you how to uh handle the exceptions in your code right i'll be showing you one example"
+    },
+    {
+      "chunk_id": 20,
+      "start": 619.76,
+      "end": 653.4399999999999,
+      "text": "guys uh i'll show you recently i had done a project for the members in my channel and there are done with the help of object oriented concepts right there i'll be showing you how many folders i have made how i have actually imported the data from files from the other folder itself and all those things i'll try to show you so exception handling is important guys because you may get any kind of issues that needs to be handled and it needs to be logged also so logging functionalities also i'll be showing you in my next part okay and always remember guys logging uh"
+    },
+    {
+      "chunk_id": 21,
+      "start": 651.36,
+      "end": 684.9590000000001,
+      "text": "you can start with python logging system itself right they have a library called as logger and probably if you uh i have not created a video on that uh in future i'll create a type i'll create a video for you all in the same topic now coming to the part three and remember guys for this i've taken three days i think three days is more than sufficient in one day you can complete strings list sets dictionary tuples now you will be thinking why is just saying krishna three days question because there are so many things inside i'm telling you get the basic overview get the basic overview any complex"
+    },
+    {
+      "chunk_id": 22,
+      "start": 682.399,
+      "end": 714.88,
+      "text": "things that comes go and google it right just don't waste much time here that you're practicing this you're practicing that you're practicing this you do that thing when you're solving the real world use case right now in the real world use case probably i am suppose if i am solving a machine learning use case i may get the data in the data frame now inside that data frame i need to perform some operations i may i may convert that into a list i may convert that into a set i may convert into a dictionary suppose i want to convert into a json i want to update in the mongodb"
+    },
+    {
+      "chunk_id": 23,
+      "start": 713.12,
+      "end": 745.36,
+      "text": "right so what i'll do i'll take all the json file i'll keep it in the form of lists list of jsons so that i with one uh you know insert many statement i can push that all in the mongodb so all those kind of operation can be googled up you know you will be able to get the solution but again the main aim is basically to understand the basic overview okay as you go on solving more and more use cases as you go and solve go on querying from the google you will be getting all the answers"
+    },
+    {
+      "chunk_id": 24,
+      "start": 743.36,
+      "end": 776.399,
+      "text": "you know for something you just have to keep on working this will never end tomorrow some more new problem will come you'll be using the same list set dictionaries in a different way you'll be using functions in a different way you'll be using lambda functions in a different way right it's all about that so here i've given three days i think it is more than sufficient right now coming to the part three oops is all you need right in oops you just have to focus on classes object methods inheritance polymorcel data expression encapsulation again i'm telling you basic overview"
+    },
+    {
+      "chunk_id": 25,
+      "start": 774.32,
+      "end": 808.32,
+      "text": "just take one example two examples three examples just do it and then when you're solving some real world problem statement and then you need to create data pre-processing pipelines you need to create some other pipelines at that time you try to use classes in that i'll show you that example as we go ahead but remember guys in in companies i'm telling you uh data science is just not about model building okay data science has a lot of things you have to create the pipelines of all the life cycle of a data science project"
+    },
+    {
+      "chunk_id": 26,
+      "start": 806.24,
+      "end": 839.04,
+      "text": "and when you do that you have to write in an object oriented programming way because just in one click all the pipeline should gets executed till the end and then your model gets created and all the things and pipeline what do i mean by pipeline feature engineering feature selection and all but again our focus over here is python i'm just taking an application as data science guys even though if you are doing web development using python there also you need to use classes because in the backend you will be interacting with mongodb you will be interacting with different kind of databases all"
+    },
+    {
+      "chunk_id": 27,
+      "start": 836.959,
+      "end": 870.639,
+      "text": "all the things are there for this i have again given four days every day to two hours every day to two hours is more than sufficient you'll be able to learn classes and objects in one day right not i'm not stressing you because that is pretty much simple and pretty much easy okay i'll be showing you from where you can learn from my playlist also and also be naming some of the youtube channels where you can actually follow all these things right so you have inheritance polymorphism data abstraction encapsulation and many more things are there okay now coming to the next thing"
+    },
+    {
+      "chunk_id": 28,
+      "start": 869.199,
+      "end": 901.04,
+      "text": "libraries with python okay now guys this is actually taking four days now you saw part two part one part two part three part four right now you are moving towards the advanced stage right you have started from basic things you starting you're moving towards that one stage and this is my experience seeing you guys okay now this libraries with python why i'm actually written today in part four why i've kept it now it is the time that you start moving towards your section so till part three"
+    },
+    {
+      "chunk_id": 29,
+      "start": 899.36,
+      "end": 930.959,
+      "text": "everybody will have to learn this till part three now in the part four probably a data scientist and a data analyst right will be focusing on all these particular libraries like numpy pandas matplotlib c bond skype i okay because they have to do a lot of analysis they have to do a whole lot of things they have to play with different different data frames they have to play with different different data sources right so here in case of data analyst suppose over here what i'd like to write is that apart from this"
+    },
+    {
+      "chunk_id": 30,
+      "start": 929.44,
+      "end": 961.8389999999999,
+      "text": "libraries he may also be interacting with some databases like mysql mongodb and for that he'll be using libraries like pymongo right so similarly um with respect to the web development now web development also that person will be actually learning this now you will be seeing that after one specific point that whole route will be spreading up now a web development people will be going in this part data analyst will be going in this part data scientist will be going in this part i'm just giving as an example guys okay so here i've actually kept two days"
+    },
+    {
+      "chunk_id": 31,
+      "start": 960.399,
+      "end": 993.0400000000001,
+      "text": "where you actually have to learn about numpy where you're playing with arrays pandas matplotlib cbon and skype obviously you know pandas you know numpy matplotlib definitely for visualization sky sky cbon again for visualization part right so libraries with python i've written it over here is my part four now this will get you started with python right this will get you started with python probably if you have learnt all these things properly by practicing some of the other things you may be a very good"
+    },
+    {
+      "chunk_id": 32,
+      "start": 990.639,
+      "end": 1022.399,
+      "text": "you will be in the in just near to the experti because yes there will be some more things who is an expert let's let's talk about who is an expertise expertise we basically say a person who has faced many problems in life definitely during the project time right so suppose he's solving some python projects is solving some data science projects and he has done a lot of explorative data analysis he had done a lot of pre-processing and he has faced some new problems right so suppose if i don't know i may go and ask my friend that how to do this"
+    },
+    {
+      "chunk_id": 33,
+      "start": 1021.36,
+      "end": 1053.7600000000002,
+      "text": "particular path because he may have faced that particular path and he'll just give you a solution right and whenever you are in that particular stage try to use google as much as possible now this will definitely get you started with python and you will be good at python you will be called intermediate level python developer right you will be pretty much good in this now coming to the advanced part part towards specialization now as i told the root will spread now so we have frameworks for web development frameworks for building desktop application"
+    },
+    {
+      "chunk_id": 34,
+      "start": 1052.24,
+      "end": 1084.24,
+      "text": "for the libraries for machine learning and deep learning i have definitely divided this into three section now in the web development you may also you may also have knowledge about uh frameworks like angularjs react.js you may also have no node sorry node.js so that you will be able to communicate with the mongodb or the sql or sorry specifically with the databases that are in the backend right so coming with the frameworks for web development and this is specifically for web application developer who are"
+    },
+    {
+      "chunk_id": 35,
+      "start": 1082.32,
+      "end": 1114.1599999999999,
+      "text": "actually doing with the help of python and data scientists should also be knowing some basic things in this web development specifically not focusing on the front end but instead of focusing on how to create the apis okay web development also includes creating the front-end application it also includes creating the web api okay so coming with the frameworks so first of all i really like to talk about the further libraries for machine learning and deep learning so here i have combined all the frameworks for machine learning and deep"
+    },
+    {
+      "chunk_id": 36,
+      "start": 1112.64,
+      "end": 1145.039,
+      "text": "learning i should write combined libraries for machine learning and deep learning i've also include frameworks so here you can learn frameworks like flash django matplotlib c bonds skype pandas numpy dusk uh nvidia kuda libraries keras uh pytosh tensorflow libraries sql on library so this is the whole libraries that you should focus on if you are really going towards the machine learning and deep learning section i have already made videos on flowers i've made videos on each and everything guys only django is pending probably"
+    },
+    {
+      "chunk_id": 37,
+      "start": 1142.88,
+      "end": 1175.76,
+      "text": "i'll also start a playlist on django so that every videos will just be able to find in my youtube channel itself okay flashcard actually combined with docker playlist so there you'll be able to see this but again what i'm trying to tell you over here is that and yes there are some more web frameworks guys only flask and django is only not there there are also other wave frameworks which i'll show you okay but our main aim is basically to know how to create apis because if i use flask or django i'll be easily be able to deploy it in any clouds like hello heroku platform ec2 instance"
+    },
+    {
+      "chunk_id": 38,
+      "start": 1173.44,
+      "end": 1206.32,
+      "text": "azure google cloud and for that also i've created that deployment playlist where i've actually created a small small flask app and i have done the deployment this is just to show that how we know that deployment part okay creating apis again whatever front end your application may be using don't worry about that because your main aim is basically to create an api and that api should be able to take many number of requests it should be scalable okay so here it comes with respect to this"
+    },
+    {
+      "chunk_id": 39,
+      "start": 1205.039,
+      "end": 1236.88,
+      "text": "the combined framework for machine learning and deep learning i should write combined frameworks and libraries for machine learning and deep learning now frameworks for web development if you are very very interested in web development again there are 100 web uh not 100 at least there are many uh web frameworks okay but the best that i liked is flash django web to pi turbo gears and cherry pi so this is with respect to this everybody knows flask and django and if you are a python developer and who is"
+    },
+    {
+      "chunk_id": 40,
+      "start": 1235.2,
+      "end": 1269.12,
+      "text": "already working you may be knowing about web 2 web 2 pi turbo gears and cherry pi okay flask and django are completely open source web 2 pi turbo gets i think it is a paid paid license cherry pie i think it is a paid like i i need to check i'm not sure about it but you can check it over there okay so this is with respect to the frameworks for web development again what are the things that you should focus in frameworks for web development how to create the front end part it definitely will require some html css knowledge you will be requiring some um frameworks with respect to the front"
+    },
+    {
+      "chunk_id": 41,
+      "start": 1267.52,
+      "end": 1301.6789999999999,
+      "text": "end you will definitely be requiring to understand that but again as a data if you are planning as a data analyst and data scientist not much is required you should just know how to create the apis okay but for the people who are actually planning to get into full stack development i think these frameworks are pretty much officer okay now coming to the last thing that is the framework for desktop application also so python also has this amazing frameworks to create desktop application so this is that all in one language"
+    },
+    {
+      "chunk_id": 42,
+      "start": 1298.08,
+      "end": 1331.919,
+      "text": "you can do anything inside this right so here you have frameworks like tickenter i think pyqt and kivy okay so these all things are actually there you can actually check it out you can actually go and see for any tutorials the tutorials are pretty much available in the vlogs you can actually check it out okay if you are planning to move towards desktop application now coming to the final points to remember okay uh before i go to this particular point i really want to"
+    },
+    {
+      "chunk_id": 43,
+      "start": 1329.52,
+      "end": 1362.1589999999999,
+      "text": "take you to the playlist in my channel from where you can actually learn python so let me just go over here so here it is so uh i've created one playlist which is called as complete machine learning playlist so here you will be seeing that this video also will i'll be keeping in the first position over here so here you can see that i've started with anaconda installation with python basics list and boolean variable sets dictionary tuples numpy inbuilt function tutorials data frames uh data series reading csv this this matplotlib c bond how to"
+    },
+    {
+      "chunk_id": 44,
+      "start": 1361.2,
+      "end": 1393.28,
+      "text": "become expert in exploratory data analysis exploratory data analysis python functions positional key arguments lambda function map function filter function list comprehension advanced string formatting python iterables versus iterators okay python's oop to to oops tutorials okay so everything univariate analysis histogram in idea now you may be thinking krish is this sufficient right this much is sufficient guys to get started this is more than enough trust me if you know this much if you know this"
+    },
+    {
+      "chunk_id": 45,
+      "start": 1391.36,
+      "end": 1424.0,
+      "text": "much later on if you just google you'll find out all the solutions i promise you with respect to that all these videos that i've actually created you will be seeing that i've created 15 minutes 20 minutes 26 minutes like this 29 minutes the reason why i have created this is that at least for some till some specific point you will be knowing this later on you can just explore by googling it i may give you 100 use cases 100 different use cases okay i may i may i may invest some time i may also get some hundred use cases and i may be recording the videos but"
+    },
+    {
+      "chunk_id": 46,
+      "start": 1422.24,
+      "end": 1455.6,
+      "text": "again that is not the main aim the main aim is that to give you that basic overview make you till the intermediate level and for the other upcoming things you can directly google it okay and definitely for the machine learning and all uh you can check my this whole complete machine learning playlist is already there hypothesis testing then how do you do the programming with respect to machine learning and all but remember with respect to machine learning guys pandas numpy you can also have libraries like das and all uh which i've actually mentioned and everything is mentioned over here"
+    },
+    {
+      "chunk_id": 47,
+      "start": 1453.76,
+      "end": 1486.64,
+      "text": "okay with respect to complete deep learning here you have uh i've created videos on pytorch i've created videos on tensorflow all the links will be given in the description of this particular video just go through it guys that is pretty much important just if you go through this 24 videos right you will be able to understand everything with the help of python because i have done exploratory data analysis also i've also included statistical concepts okay statistical concepts also the reason why i have mentioned over there skype because all the statistical concepts also you can integrate over here and everything is mentioned"
+    },
+    {
+      "chunk_id": 48,
+      "start": 1484.0,
+      "end": 1517.12,
+      "text": "it's just up to you again i'm telling you don't worry about much things so this is just sufficient don't worry whenever you face that problem google it you will get the solution nowadays we require it developers who are very very good at google searching right who are very very good at finding solutions in the google right trust me the manager will be very very happy for that okay now coming back over here the final points to remember these are are very very important points"
+    },
+    {
+      "chunk_id": 49,
+      "start": 1516.159,
+      "end": 1549.36,
+      "text": "uh probably uh when i was learning some of the times many many many times i used to get demotivated the first point that i really want to say is that don't be hard on yourself okay everybody has a different capability some may learn quickly some may some may take some time okay i i'm an average person with respect to uh learning something you know i take time okay so don't be hard on yourself give yourself time right yes when you are saying that and"
+    },
+    {
+      "chunk_id": 50,
+      "start": 1548.0,
+      "end": 1580.48,
+      "text": "give yourself time based on your capability okay suppose if a person is able to learn only two hours daily efficiently instead of it sitting for eight hours and you're not learning anything just give that two hours sincerely okay give yourself time guys this is the second point that i really want to mention don't be hard on yourself if you're not able to learn if somebody is able to learn don't differentiate that oh he's intelligent he's that he's that okay you all are same i'm telling you everybody's unique in their way"
+    },
+    {
+      "chunk_id": 51,
+      "start": 1578.64,
+      "end": 1611.36,
+      "text": "okay if somebody is doing some work quickly and you are not able to do it don't worry you just have to practice some more things and you will be better i'm telling you every day we become better we learn some things right because everybody again will be unique in their specific way some of the work you may be good at some of the work i may be good at right don't worry much of the outcome okay this is the point that i really want to mention because um why i'm mentioning this you may you may be thinking krish what is this point"
+    },
+    {
+      "chunk_id": 52,
+      "start": 1609.76,
+      "end": 1643.1200000000001,
+      "text": "don't worry much out of then why are we learning see guys everything that happens in our life happens for a good thing okay always remember this particular point everything that happens in our life is good happens for a good and specific reason whatever i have learned in my life some or the other way i've used that okay so right now when you're learning python probably you may not get a job right now but after one to two years you may get a job when you're doing some other kind of work"
+    },
+    {
+      "chunk_id": 53,
+      "start": 1640.159,
+      "end": 1672.24,
+      "text": "that is how i also got right so don't worry much of the outcome you love something start reading it start learning it don't worry that whether you'll be able to get a job whether you'll be able to go into this don't worry about that you are interested into this you have put a lot of efforts definitely you'll be successful okay just focus more on learning so the next point is that you have to keep on preparing and learning continuously so continuously you have to learn this is the thing in the data"
+    },
+    {
+      "chunk_id": 54,
+      "start": 1670.72,
+      "end": 1703.039,
+      "text": "science industry there is the thing in any any any any technique any skill that you take you have to keep on working on your skills to improve them right you have to be working on this is just not specific to data science guys this is specific to every technologies that is existing in this particular world you always try to research some new things next point don't feel me demotivated again i'm telling you don't be hard on yourself and don't feel demotivated because others are doing well others are going to do this much well there they're getting some amazing jobs"
+    },
+    {
+      "chunk_id": 55,
+      "start": 1701.44,
+      "end": 1734.399,
+      "text": "i've been preparing for one to two years still i'm not able to get the job don't don't feel demotivated just thinking because of that i used to get demotivated because my some of my friends used to do pretty much well but i was not able to do it don't feel demotivated every day every one there is one sweet time where everything will perfectly go fine for you all okay and final thing don't hesitate to take help of google any questions that you have if suppose i'm not able to answer in my channel you you're not getting answer from your"
+    },
+    {
+      "chunk_id": 56,
+      "start": 1732.24,
+      "end": 1752.559,
+      "text": "mentors or anybody else in this world just go and ask google he will be providing you the complete solution so i hope you like this video i hope it was motivational uh please do subscribe the channel if you're not already subscribed i will see you on the next video have a great day thank you bye"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "video_id": "zUzd-HgaFkw",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "start": 0.68,
+      "end": 35.6,
+      "text": "bah welcome to the pl300 Microsoft powerbi\u00a0\ndata analyst exam preparation course the pl300 certification leads to the title of powerbi data\u00a0\nanalyst associate the powerb data analyst Works closely with business stakeholders to identify\u00a0\nbusiness requirements they collaborate with Enterprise data analyst and data Engineers to\u00a0\nidentify and acquire data they also transform the data create data model models visualize data and\u00a0\nshare assets by using powerbi so the definition"
+    },
+    {
+      "chunk_id": 1,
+      "start": 35.6,
+      "end": 68.36,
+      "text": "that you see here has been copied and pasted\u00a0\nhere from the Microsoft uh learn website and this is effectively the overall role of a powerbi\u00a0\ndata analyst and the things that a powerbi data analyst is supposed to do so in order to pass\u00a0\nthis certification you must make sure that you understand what is the overall role of a powerb\u00a0\ndata analyst and you will have to learn all the things that have been mentioned here on this Slide\u00a0\nthe pl300 certification exam has been divided into"
+    },
+    {
+      "chunk_id": 2,
+      "start": 68.36,
+      "end": 104.44,
+      "text": "four learning paths so the first learning path is\u00a0\nthe pre is prepare the data which has an overall vitage of 25 to 30% on the exam the second\u00a0\nlearning path is model the data which again has a vitage of 25 to 30% on the exam the third\u00a0\nlearning path is visualize and analyze the data again the overall vitage is 25 to 30% and the last\u00a0\nlearning path is deploy and maintain assets which has a vitage of 15 to 20% on the pl300 exam here\u00a0\nis the detailed content for the first learning"
+    },
+    {
+      "chunk_id": 3,
+      "start": 104.44,
+      "end": 137.4,
+      "text": "path prepare the data So within each learning path\u00a0\nyou have multiple sections so this is the first section get data from data sources the second\u00a0\nsection is clean the data and the third section is transform and load the data within each section\u00a0\nyou have multiple topics that are shown here in the bullet points the same method methodology is\u00a0\nfollowed for all the learning paths so you can see that I have listed here the second learning\u00a0\npath which is model the data these are the"
+    },
+    {
+      "chunk_id": 4,
+      "start": 137.4,
+      "end": 169.72,
+      "text": "three sections inside model the data and for each\u00a0\nsection you can see the different topics similarly for the third learning path visualize and analyze\u00a0\nthe data we have sections create reports enhance reports for usability and storytelling and the\u00a0\nthird section is identify patterns and Trends so again you you can see there are multiple sections\u00a0\nfor the third uh learning path and for within each section you have multiple topics and then the last\u00a0\nlearning path is deploy and maintain assets here"
+    },
+    {
+      "chunk_id": 5,
+      "start": 169.72,
+      "end": 204.32,
+      "text": "you have two sections create and manage workspaces\u00a0\nand assets and manage data sets and then again you have multiple topics for the two sections shown\u00a0\nhere for the fourth learning path so we are going to cover each and every topic in order to prepare\u00a0\nfor this exam so in the subsequent sections you are going to find that the overall course has\u00a0\nbeen divided as per the four learning paths shown here I have changed the distribution and\u00a0\nthe sequence of these topics slightly based on"
+    },
+    {
+      "chunk_id": 6,
+      "start": 204.32,
+      "end": 235.95999999999998,
+      "text": "the experience that how the student would find\u00a0\nit most appropriate to prepare for the exam but all the topics that you see here listed\u00a0\non these slides have been covered and covered in a lot of detail I have also attached a PDF\u00a0\ndocument that is titled the pl300 cheat sheet or important points to remember so I have prepared\u00a0\nthis document based upon my own understanding and I would strongly recommend you to use this cheat\u00a0\nsheet while you are preparing for the for the exam"
+    },
+    {
+      "chunk_id": 7,
+      "start": 235.96,
+      "end": 267.28,
+      "text": "if you feel that you want to add some more points\u00a0\nto this cheat cheat sheet uh feel free to do that and make your own cheat sheet but you're going\u00a0\nto find a lot of uh things important things that are related to the exam that have been covered\u00a0\nin this cheat sheet most of the content in this course is handson so you are going to find that\u00a0\nalmost 855 to the 90% of the content is based on Hands-On and there is a lot of course material\u00a0\nthat is required to actually follow in the videos"
+    },
+    {
+      "chunk_id": 8,
+      "start": 267.28,
+      "end": 299.44,
+      "text": "so any data set or any other supporting material\u00a0\nis available on two sources the first one is the Google Drive and the other one is the Microsoft\u00a0\nSharePoint as soon as you register for your course you are going to get access to the Google Drive\u00a0\nin case you do not get access or are facing any issue accessing the Google Drive Link then feel\u00a0\nfree to drop me an email in the link shown on the bottom of this video the other link is the\u00a0\nMicrosoft SharePoint in the videos I have used"
+    },
+    {
+      "chunk_id": 9,
+      "start": 299.44,
+      "end": 329.64,
+      "text": "this Microsoft Microsoft SharePoint link but\u00a0\nbut you need do not need to worry everything that is there on the Microsoft SharePoint link\u00a0\nis also available on the Google Drive for the last learning path which is the fourth learning\u00a0\npath you will require access to powerbi service so if you require access to powerbi service\u00a0\nand you do not have an account of your own then once you reach the fourth learning path please\u00a0\ndrop an email and I will give uh access to you"
+    },
+    {
+      "chunk_id": 10,
+      "start": 330.2,
+      "end": 361.2,
+      "text": "on the SharePoint account that I have but remember\u00a0\nthat this SharePoint access SharePoint account access will be available for just 30 days so make\u00a0\nsure that you uh watch the fourth learning path and and do everything related to the power\u00a0\nBS service within that month apart from the fourth learning path everything on the course\u00a0\nrequires you to have powerbi desktop installed on your Windows machine and please remember that\u00a0\npowerb desktop does not run on your MacBooks so if"
+    },
+    {
+      "chunk_id": 11,
+      "start": 361.2,
+      "end": 393.44,
+      "text": "you do not have access to powerb desktop you can\u00a0\njust come on this website and click here on this link and you can download powerbi desktop on your\u00a0\nlaptop or on your Windows machine you can put this link on your browser and come here and download\u00a0\nthe powerbi desktop software otherwise you can just use any search engine and write powerb\u00a0\ndesktop and it is going to bring you to the same link and you can download the powerb a desktop\u00a0\nenvironment on your Windows machine or laptop if"
+    },
+    {
+      "chunk_id": 12,
+      "start": 393.44,
+      "end": 426.96,
+      "text": "you want to interact with the instru instructor\u00a0\nin case of any question or query you can join the Skype group link which is shown here on this\u00a0\nhyperlink or in case you are unable to join this link then you can drop me an email on the email\u00a0\naddress that was shown earlier in the video if you like the content of this course then you can\u00a0\nalso use these social media handles to interact with me I am very active on all these links so\u00a0\nthat's all for the introduction of the course"
+    },
+    {
+      "chunk_id": 13,
+      "start": 426.96,
+      "end": 461.12,
+      "text": "so you can now start watching all the videos there\u00a0\nare certain videos that are mentioned as reference or optional videos so my recommendation would\u00a0\nbe that you should go and always watch or read the reference articles or reference videos but the\u00a0\noptional videos or the optional articles it is up to you whether you want to go into the detail or\u00a0\nyou do not have the time then you can easily skip those so uh that's it for the coast introduction\u00a0\nand I'll catch up with you in the next video"
+    }
+  ]
+}

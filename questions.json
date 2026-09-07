@@ -1,16 +1,16 @@
 {
-  "video_id": "REPLACE_ME",
-  "note": "Write these by watching/skimming the video yourself, BEFORE running retrieve.py or answer.py on them. Editing a question after seeing what the system returns invalidates it — you'd be grading the system on questions it happens to answer.",
+  "video_id": "zUzd-HgaFkw&list=bPrmA1SEN2k",
+  "note": "Written from the transcript before running retrieval on them.",
   "questions": [
-    {"id": 1, "kind": "single", "question": "REPLACE_ME", "expected_answer_notes": "REPLACE_ME"},
-    {"id": 2, "kind": "single", "question": "REPLACE_ME", "expected_answer_notes": "REPLACE_ME"},
-    {"id": 3, "kind": "single", "question": "REPLACE_ME", "expected_answer_notes": "REPLACE_ME"},
-    {"id": 4, "kind": "single", "question": "REPLACE_ME", "expected_answer_notes": "REPLACE_ME"},
-    {"id": 5, "kind": "single", "question": "REPLACE_ME", "expected_answer_notes": "REPLACE_ME"},
-    {"id": 6, "kind": "synthesis", "question": "REPLACE_ME", "expected_answer_notes": "requires combining 2+ parts of the video"},
-    {"id": 7, "kind": "synthesis", "question": "REPLACE_ME", "expected_answer_notes": "requires combining 2+ parts of the video"},
-    {"id": 8, "kind": "synthesis", "question": "REPLACE_ME", "expected_answer_notes": "requires combining 2+ parts of the video"},
-    {"id": 9, "kind": "negative", "question": "REPLACE_ME", "expected_answer_notes": "the video does NOT cover this — correct answer is a decline"},
-    {"id": 10, "kind": "negative", "question": "REPLACE_ME", "expected_answer_notes": "the video does NOT cover this — correct answer is a decline"}
+    {"id": 1, "kind": "single", "question": "How many learning paths does the PL-300 exam cover?", "expected_answer_notes": "Four learning paths"},
+    {"id": 2, "kind": "single", "question": "What is the exam weightage of the 'Prepare the data' learning path?", "expected_answer_notes": "25 to 30%"},
+    {"id": 3, "kind": "single", "question": "Does Power BI Desktop run on MacBooks?", "expected_answer_notes": "No, it does not run on Mac, only Windows"},
+    {"id": 4, "kind": "single", "question": "Where can students get the course's data sets and supporting material?", "expected_answer_notes": "Google Drive and Microsoft SharePoint"},
+    {"id": 5, "kind": "single", "question": "What is the title of the PDF document the instructor attached?", "expected_answer_notes": "The PL-300 cheat sheet / important points to remember"},
+    {"id": 6, "kind": "synthesis", "question": "If a student needs Power BI service access for the fourth learning path but doesn't have their own account, what should they do, and what's the time limit once they get access?", "expected_answer_notes": "Combines: email the instructor for SharePoint access (mentioned near learning path breakdown) + the access is only valid for 30 days (mentioned later)"},
+    {"id": 7, "kind": "synthesis", "question": "What is the weightage of the 'Model the data' learning path, and what are its three sections?", "expected_answer_notes": "Combines the weightage (25-30%, stated early) with the three sections listed later for that learning path"},
+    {"id": 8, "kind": "synthesis", "question": "Roughly what percentage of the course is hands-on, and what should a student do if they can't access the Google Drive material?", "expected_answer_notes": "Combines the hands-on percentage (85-90%) with the fallback instruction to email the instructor"},
+    {"id": 9, "kind": "negative", "question": "What is the passing score required to pass the PL-300 exam?", "expected_answer_notes": "Not covered in this video -- passing score is never mentioned"},
+    {"id": 10, "kind": "negative", "question": "How much does it cost to register for the PL-300 certification exam?", "expected_answer_notes": "Not covered in this video -- cost/pricing is never mentioned"}
   ]
 }
